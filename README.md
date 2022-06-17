@@ -1,4 +1,4 @@
-# TeslaAssignment
+# Computer Graphics
 
 Assignment 1
 --------------
