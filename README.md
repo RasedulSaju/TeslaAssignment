@@ -1,5 +1,4 @@
 # TeslaAssignment
-Tesla Assignment
 
 Assignment 1
 --------------
